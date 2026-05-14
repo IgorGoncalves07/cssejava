@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.texto-estilo1{
+    font-size: 1.2em;
+    color: #d40000;
+    background-color: #000000;
+    padding: 10x 20x;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+    font-family: 'Arial' , sans-serif;
+}
+
+
+
+.devil {
+
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    border: 3px solid #333;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.4);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
